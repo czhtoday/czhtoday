@@ -1,9 +1,11 @@
+[![Header](https://github.com/czhtoday/czhtoday/blob/main/readme_header.png "Header")](https://github.com/czhtoday)
+
+https://github.com/czhtoday/czhtoday/blob/main/readme_header.png
 ## Hi, I'm Zhihang!  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px" />
 
 👨🏻‍💻 Software Engineer<br />
 👨🏻‍🎓 Studied Computer Science at the Northeastern University, Seattle<br />
 💭 Currently learning about Machine Learning and Generative AI<br />
-
 
 ### 💻 Tech Stack
 

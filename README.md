@@ -1,4 +1,4 @@
-## Hello, folks! 👋 <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px" />
+## Hi, I'm Zhihang!  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px" />
 
 ### 🧰 Languages and Tools
 

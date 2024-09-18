@@ -25,10 +25,27 @@
 <br />
 <br />
 
-### 🤖 Github Status
+### 📊 Github Status
 
 [![Zhihang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=czhtoday&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/czhtoday/github-readme-stats#gh-dark-mode-only)
 [![Zhihang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=czhtoday&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/czhtoday/github-readme-stats#gh-light-mode-only)
+
+<br />
+<br />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=czhtoday&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br />
+
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chengzhihang/) 
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=czhtoday&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
 
 
 <!--

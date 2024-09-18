@@ -1,6 +1,11 @@
 ## Hi, I'm Zhihang!  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px" />
 
-### 🧰 Languages and Tools
+👨🏻‍💻 Software Engineer<br />
+👨🏻‍🎓 Studied Computer Science at the Northeastern University, Seattle<br />
+💭 Currently learning about Machine Learning and Generative AI<br />
+
+
+### 💻 Tech Stack
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -19,7 +24,8 @@
 <img align="left" alt="TailWind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <br />
 
-
+[![Zhihang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=czhtoday&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/czhtoday/github-readme-stats#gh-dark-mode-only)
+[![Zhihang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=czhtoday&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/czhtoday/github-readme-stats#gh-light-mode-only)
 
 
 <!--

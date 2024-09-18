@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, folks! 👋 <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px" />
+
 
 <!--
 **czhtoday/czhtoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

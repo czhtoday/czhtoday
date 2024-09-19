@@ -3,7 +3,7 @@
 ## Hi, I'm Zhihang!  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px" />
 
 👨🏻‍💻 Software Engineer<br />
-👨🏻‍🎓 Studied Computer Science at the Northeastern University, Seattle<br />
+👨🏻‍🎓 Studying Computer Science at the Northeastern University, Seattle<br />
 💭 Currently learning about Machine Learning and Generative AI<br />
 🏄🏻‍♂️ I enjoy paddle boarding and playing the guitar. I'm particularly passionate about PC modding, especially building custom water-cooled setups<br />
 
@@ -26,8 +26,6 @@
 <img align="left" alt="TailWind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <br />
 <br />
-
-
 <br />
 
 ### 🌐 Socials:

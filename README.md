@@ -27,6 +27,10 @@
 <br />
 <br />
 <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czhtoday&layout=compact)
+<br />
+<br />
+
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chengzhihang/) 

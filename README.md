@@ -1,11 +1,14 @@
 [![Header](https://github.com/czhtoday/czhtoday/blob/main/readme_header.png "Header")](https://github.com/czhtoday)
 
-## Hi, I'm Zhihang!  <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px" height="30px" />
+## Hi, I'm Alex (Zhihang)! 👋
 
-👨🏻‍💻 Software Engineer<br />
-👨🏻‍🎓 Studying Computer Science at the Northeastern University, Seattle<br />
-💭 Currently learning about Machine Learning and Generative AI<br />
-🏄🏻‍♂️ I enjoy paddle boarding and playing the guitar. I'm particularly passionate about PC modding, especially building custom water-cooled setups<br />
+I'm a software engineer focused on backend systems, AI infrastructure, distributed systems, and cloud-native automation. I enjoy building reliable services and tools that make developers' day-to-day work easier.
+
+At **Tesla**, I contributed to an internal AI agent platform on the GenAI Infrastructure team, working on asynchronous processing, streaming agent execution, metadata pipelines, and CI/CD automation with Go, NATS, Redis, MongoDB, Docker, and Kubernetes. Previously, at **Amazon**, I built an event-driven serverless pipeline for the Fire TV Ads team using AWS Lambda, EventBridge, SQS, CloudFormation, and Bedrock to automate support-ticket triage and enrichment.
+
+I'm also building [Perk Done](https://github.com/czhtoday/PerkDone), an open-source Chrome extension for tracking credit card benefits.
+
+Outside of software, I enjoy paddleboarding, playing guitar, and building custom water-cooled PCs.
 
 ### 💻 Tech Stack
 
